@@ -1,0 +1,24 @@
+header{
+    background-color:grey;
+}
+.h2{
+    color:beige;
+}
+.icon{
+    color:red;
+    font-size: 70px;
+}
+.fa-envelope{
+    color:darkcyan;
+    font-size: 50px;
+}
+footer{
+    background-color: black;
+    padding: 50px;
+    font-size: 20px;
+    color:white;
+    padding: auto;
+}
+header{
+    background-color: gray;
+}
